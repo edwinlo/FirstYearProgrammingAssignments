@@ -1,5 +1,5 @@
 /********************************
-/Assignment 2 Task 2 : robustInput.cpp
+/Assignment 2 Task 1 : robustInput.cpp
 /
 /By : Edwin Lo
 /
