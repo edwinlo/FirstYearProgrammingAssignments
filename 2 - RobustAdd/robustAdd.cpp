@@ -1,5 +1,5 @@
 /********************************
-/Assignment 2 Task 3 : robustAdd.cpp
+/Assignment 2 Task 2 : robustAdd.cpp
 /
 /By : Edwin Lo
 /
