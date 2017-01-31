@@ -8,13 +8,8 @@
 /This program prompts the user for an integer, and outputs it back out. If the 
 /integer is not a number nor an integer, then it will output an error message
 /and exit the program. 
+/
 ********************************/
-// robustInput.cpp
-// By: Edwin Lo
-// Description: This program prompts the user for an integer, and outputs it back out. If the 
-// 				integer is not a number nor an integer, then it will output an error message
-// 				and exit the program. 
-
 #include <iostream>
 
 using namespace std;
